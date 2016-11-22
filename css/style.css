@@ -1,9 +1,12 @@
 .top{
-    width: 100%;
+    width: 80%;
     height: 100px;
     background-color: #424242;
 }
 .container{
-    width: 100%;
+    width: 80%;
+    background-color: #616161;
+}
+body{
     background-color: #212121;
 }
