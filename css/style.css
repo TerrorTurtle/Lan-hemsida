@@ -22,6 +22,11 @@
 .container p{
     color: #fff;
 }
+.container h1{
+    color: #ff8c1a;
+    font-family: "Arial", Gadget, sans-serif;
+    font-size: 36px;
+}
 body{
     background-color: #212121; /* Background */
 }
