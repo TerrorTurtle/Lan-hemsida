@@ -1,6 +1,6 @@
 .top{
     width: 80%;
-    height: 100px;
+    height: 200px;
     background-color: #424242;
     margin-left: auto;
     margin-right: auto;
@@ -13,6 +13,10 @@
     font-size: 72px;
     font-family: "Arial Black", Gadget, sans-serif;
     color: #ff8c1a; /* Text Color */
+}
+.logga{
+    height: 180px;
+    margin-top: 10px;
 }
 .container{
     margin-top: 10px;
